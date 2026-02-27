@@ -1,0 +1,1 @@
+print('hamed s clever')
